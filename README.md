@@ -3,10 +3,10 @@
 
 🔭 I’m a recent graduate with a Master's in Computer Science from the University of Colorado, Denver, USA.<br>
 👯 I’m looking for Full time Opportunities in Software Engineering or Full Stack Development.<br>
-🌱 I’m currently learning: React.<br>
-💬 Ask me about Java<br>
+🌱 I’m currently learning: LLM Architecture.<br>
+💬 Ask me about Java, Python, AI<br>
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: I love Travelling!<br>
+⚡ Fun fact: I love travelling!<br>
 📫 How to reach me: **vedantsugandhi95@gmail.com**
 <br>
 <h2 align="left">☕ Get in Touch</h2>
